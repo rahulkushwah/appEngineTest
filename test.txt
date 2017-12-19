@@ -1,0 +1,2 @@
+{"frames": 278528, "filename": "media\\myRecording00 (1)_KoODw4G.wav", "rate": 48000, "audio_length": 5.802666666666667}
+{"frames": 278528, "filename": "media\\myRecording00 (1)_c1NQBpu.wav", "rate": 48000, "audio_length": 5.802666666666667}
